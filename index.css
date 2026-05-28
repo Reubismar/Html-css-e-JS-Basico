@@ -1,3 +1,8 @@
+/* Dentro de index.css */
 body {
-    background-color: rgb(255, 96, 96);
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
 }
